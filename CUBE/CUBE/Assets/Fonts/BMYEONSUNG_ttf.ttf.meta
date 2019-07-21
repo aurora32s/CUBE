@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5e29ab81206501b40b26cfc93ce38b74
+timeCreated: 1519490634
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BM YEONSUNG
+  fontNames:
+  - BM YEONSUNG
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
